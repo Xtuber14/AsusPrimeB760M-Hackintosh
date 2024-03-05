@@ -5,7 +5,7 @@
 2. Sidecar
 3. Universal Control
 ## Please make this changes
-- Enable SSDT_6x50.aml if you have a RX 6650/6950
+- Enable SSDT_6x50.aml if you have a RX 6650/6950 XT
 - Generate your SMBIOS (use MacPro7,1)
 - If needed add you Kexts
 # Credits
